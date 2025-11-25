@@ -111,7 +111,6 @@ The LCD will immediately display the test messages.
 > If your module uses **0x3F**, update it in `i2c_lcd.c`.
 
 
-
 ##  Example Output
 
 ```
