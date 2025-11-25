@@ -120,7 +120,3 @@ From STM32Nucleo
 ```
 
 
-✅ Cleaner Optimized `i2c_lcd.c` Driver
-✅ A version with **LCD scrolling text** or **custom characters**
-
-Just tell me!
